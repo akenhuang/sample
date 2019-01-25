@@ -4,6 +4,7 @@
 
 This is a sample PHP application for the re:Invent Application
 Lifecycle Management bootcamp.
+This is also a demo for DevOps class.
 
 ## Security
 
